@@ -1,0 +1,6 @@
+this is hotel.txt file
+in this i make the list of grocery items
+1.wheat
+2.Turmeric
+3.Red chilly 
+
